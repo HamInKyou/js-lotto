@@ -5,7 +5,7 @@ module.exports = {
     mode:'none',
     entry: './src/step3-index.js',
     output: {
-        filename: 'bundle.js',
+        filename: 'step3-bundle.js',
         path: path.resolve(__dirname, 'dist'),
     },
     module: {
